@@ -7,7 +7,7 @@
 
 ---
 
-![portafolio-presentacion]()
+![portafolio-presentacion](https://user-images.githubusercontent.com/110046283/190878024-126d4303-1a38-4357-867b-bcc3641d1211.png)
 
 ---
 
